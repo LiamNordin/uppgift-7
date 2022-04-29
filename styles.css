@@ -1,0 +1,18 @@
+body{
+  background-color: gray;
+font-family: Verdana, Arial, sans-serif;
+  }
+
+a {
+ text-decoration: none;
+}
+
+a:link, a:visited {
+  color: lightblue;
+}
+
+a:hover {
+  color: darkblue;
+text-decoration: underline overline;
+
+  }
